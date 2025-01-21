@@ -1,4 +1,3 @@
 baseball_ai/Data/clean/*
 baseball_ai/Data/raw/*
-
-.ipynb_checkpoints
+*.csv
