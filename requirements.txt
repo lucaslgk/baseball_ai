@@ -1,0 +1,25 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+
+matplotlib
+seaborn
+
+# Data
+pybaseball
+MLB-StatsAPI
+
+pytest
+
+# Tracking
+mlflow     # Bon pour le tracking des expériences
+
+# Visuel
+streamlit  # Bien pour la visualisation
+
+# API
+requests
+fastapi 
+uvicorn
